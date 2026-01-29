@@ -1,2 +1,3 @@
 This text could have been written much better!
-Added text. ANd once again
+Added text. 
+Added new line of text
